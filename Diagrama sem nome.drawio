@@ -157,12 +157,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="w9UW2hgdZQCUmxUf3PU4" name="Página-3">
-    <mxGraphModel dx="1167" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TsXmE2PtIpJ3X4zg_2XN-2" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="40" width="300" height="560" as="geometry" />
+          <mxGeometry x="240" y="-50" width="300" height="650" as="geometry" />
         </mxCell>
         <mxCell id="TsXmE2PtIpJ3X4zg_2XN-11" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="270" width="30" height="60" as="geometry" />
@@ -264,7 +264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Fd3NMn6i84SQsX3x47gq-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Sistema de Reservas de Hotel&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="-10" width="250" height="40" as="geometry" />
+          <mxGeometry x="263" y="-80" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Fd3NMn6i84SQsX3x47gq-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;R&lt;span style=&quot;color: rgb(0, 29, 53); font-family: &amp;quot;Google Sans&amp;quot;, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;ealizar check-in e check-out&lt;/span&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="330" width="120" height="60" as="geometry" />
@@ -288,6 +288,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="280" as="sourcePoint" />
             <mxPoint x="330" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fd3NMn6i84SQsX3x47gq-8" value="Segurança" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd3NMn6i84SQsX3x47gq-9" value="Sistemas de Segurança" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Fd3NMn6i84SQsX3x47gq-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" target="Fd3NMn6i84SQsX3x47gq-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="70" as="sourcePoint" />
+            <mxPoint x="210" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Fd3NMn6i84SQsX3x47gq-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" target="TsXmE2PtIpJ3X4zg_2XN-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="80" as="sourcePoint" />
+            <mxPoint x="347" y="-21" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
