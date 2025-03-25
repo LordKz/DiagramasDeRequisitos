@@ -63,7 +63,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wnBGi6E-T9qJQtVkh0lc-9" value="Usúario" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry width="160" height="280" as="geometry">
+          <mxGeometry width="160" height="320" as="geometry">
             <mxRectangle x="40" y="40" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -73,8 +73,8 @@
         <mxCell id="wnBGi6E-T9qJQtVkh0lc-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="wnBGi6E-T9qJQtVkh0lc-9">
           <mxGeometry y="170" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="wnBGi6E-T9qJQtVkh0lc-12" value="+ method(type): type&lt;div&gt;+ Visualizar Perfil()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wnBGi6E-T9qJQtVkh0lc-9">
-          <mxGeometry y="180" width="160" height="100" as="geometry" />
+        <mxCell id="wnBGi6E-T9qJQtVkh0lc-12" value="+ Criar Conta&lt;div&gt;+ Criar Senha&lt;/div&gt;&lt;div&gt;+ Edita Perfil&lt;/div&gt;&lt;div&gt;+ Excluir a conta&lt;/div&gt;&lt;div&gt;+&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="wnBGi6E-T9qJQtVkh0lc-9">
+          <mxGeometry y="180" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="wnBGi6E-T9qJQtVkh0lc-13" value="Cadastro" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" width="160" height="290" as="geometry">
