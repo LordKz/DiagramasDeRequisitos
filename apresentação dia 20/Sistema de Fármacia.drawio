@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.3" pages="3">
   <diagram id="IX0TdvUKcl3TfwsKhiF-" name="Página-3">
-    <mxGraphModel dx="2592" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2055" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
           <mxGeometry y="178" width="160" height="92" as="geometry" />
         </mxCell>
         <mxCell id="PptjdEw84sAYZUpLi5Vr-56" value="Venda" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="12" width="160" height="210" as="geometry" />
+          <mxGeometry x="1040" y="610" width="160" height="210" as="geometry" />
         </mxCell>
         <mxCell id="PptjdEw84sAYZUpLi5Vr-57" value="&lt;div&gt;+ IdVenda&lt;/div&gt;&lt;div&gt;+ DataVenda&lt;/div&gt;&lt;div&gt;+ ValorTotal&lt;/div&gt;&lt;div&gt;+ FormaPagamento&lt;/div&gt;&lt;div&gt;+ IdCliente&lt;/div&gt;&lt;div&gt;+ IdFuncionario&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="PptjdEw84sAYZUpLi5Vr-56" vertex="1">
           <mxGeometry y="26" width="160" height="104" as="geometry" />
@@ -190,7 +190,7 @@
           <mxGeometry y="178" width="160" height="92" as="geometry" />
         </mxCell>
         <mxCell id="PptjdEw84sAYZUpLi5Vr-68" value="Fornecedor" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1241" y="300" width="160" height="200" as="geometry" />
+          <mxGeometry x="1240" y="10" width="160" height="200" as="geometry" />
         </mxCell>
         <mxCell id="PptjdEw84sAYZUpLi5Vr-69" value="+ IdFornecedor&lt;div&gt;+ Nome&lt;/div&gt;&lt;div&gt;+ CPF&lt;/div&gt;&lt;div&gt;+ CNPJ&lt;/div&gt;&lt;div&gt;+ Endereço&lt;/div&gt;&lt;div&gt;+ Telefone&lt;/div&gt;&lt;div&gt;+ Email&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="PptjdEw84sAYZUpLi5Vr-68" vertex="1">
           <mxGeometry y="26" width="160" height="114" as="geometry" />
@@ -202,7 +202,7 @@
           <mxGeometry y="148" width="160" height="52" as="geometry" />
         </mxCell>
         <mxCell id="PptjdEw84sAYZUpLi5Vr-72" value="Pedido" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1410" y="120" width="160" height="148" as="geometry" />
+          <mxGeometry x="1240" y="250" width="160" height="148" as="geometry" />
         </mxCell>
         <mxCell id="PptjdEw84sAYZUpLi5Vr-73" value="+ IdPedido&lt;div&gt;+ DataPedido&lt;/div&gt;&lt;div&gt;+ ValorTotal&lt;/div&gt;&lt;div&gt;+ IdFornecedor&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="PptjdEw84sAYZUpLi5Vr-72" vertex="1">
           <mxGeometry y="26" width="160" height="114" as="geometry" />
@@ -230,6 +230,18 @@
         </mxCell>
         <mxCell id="rAFYK0ee4a26nlUr8Dzz-6" value="&lt;br&gt;&lt;div&gt;&lt;font face=&quot;Arial, sans-serif&quot; color=&quot;#1b1c1d&quot;&gt;&lt;span style=&quot;font-size: 16px; white-space-collapse: preserve;&quot;&gt;Efetua Compras&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#63FF79;" vertex="1" parent="1">
           <mxGeometry x="560" y="500" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rAFYK0ee4a26nlUr8Dzz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PptjdEw84sAYZUpLi5Vr-48" target="PptjdEw84sAYZUpLi5Vr-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rAFYK0ee4a26nlUr8Dzz-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.497;exitY=1.059;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PptjdEw84sAYZUpLi5Vr-50" target="PptjdEw84sAYZUpLi5Vr-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="310" as="sourcePoint" />
+            <mxPoint x="970" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rAFYK0ee4a26nlUr8Dzz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.012;entryY=0.399;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PptjdEw84sAYZUpLi5Vr-69" target="PptjdEw84sAYZUpLi5Vr-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
