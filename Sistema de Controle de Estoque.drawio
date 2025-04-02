@@ -1,9 +1,27 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.4">
   <diagram name="Página-1" id="fVcC5T2ZVeJGX5PVA6cY">
-    <mxGraphModel>
+    <mxGraphModel dx="1044" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1XqAY3EXQtKsVSWTkf1U-1" value="&lt;b&gt;Transportadora&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1XqAY3EXQtKsVSWTkf1U-2" value="&lt;b&gt;Gerente&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1XqAY3EXQtKsVSWTkf1U-3" value="&lt;h1 style=&quot;text-align: center; margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Sistema de Gerenciamento de estoque&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;&quot;&gt;&lt;b&gt;Briefing, Dados Técnicos,&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Loja de instrumentos musicais:&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Produto: &lt;/b&gt;Guitarra, Teclado, Microfone, Caixas de Som, Cabos,&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="130" width="319" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="1XqAY3EXQtKsVSWTkf1U-4" value="&lt;b&gt;Funcionário&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1XqAY3EXQtKsVSWTkf1U-5" value="&lt;b&gt;Cliente&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1XqAY3EXQtKsVSWTkf1U-6" value="&lt;b&gt;Funcionário / Funcionário&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="350" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
